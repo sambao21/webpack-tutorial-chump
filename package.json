@@ -1,0 +1,7 @@
+{
+  "name": "webpack-tutorial-chump",
+  "dependencies": {
+    "css-loader": ">= 0.14.5",
+    "style-loader": ">= 0.12.3"
+  }
+}
